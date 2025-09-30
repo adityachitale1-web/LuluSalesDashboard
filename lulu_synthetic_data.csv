@@ -1,0 +1,101 @@
+Customer,Age,Gender,Region,Category,Sales_Amount,Loyalty_Status,Ad_Budget_Expenditure
+Hassan,56,Female,Sharjah,Clothing,236.0,Gold,7920.89
+Fatima,46,Female,Fujairah,Electronic,115.89,Silver,9502.89
+Sara,32,Female,Dubai,Grocery,145.74,Gold,8646.83
+John,25,Male,Ajman,Clothing,67.31,Gold,3226.13
+Omar,38,Male,Dubai,Grocery,139.72,Silver,5054.9
+Omar,56,Female,Ajman,Electronic,698.86,Silver,2162.43
+Fatima,36,Female,Dubai,Electronic,117.63,Silver,9586.46
+Ahmed,40,Male,Fujairah,Electronic,353.03,Platinum,6455.57
+Ali,28,Male,Ajman,Clothing,852.63,Silver,3057.79
+Fatima,28,Female,Sharjah,Grocery,72.11,Gold,7045.31
+Lina,41,Male,Dubai,Grocery,823.75,Silver,6563.15
+Ali,53,Female,Dubai,Grocery,317.76,Platinum,4223.46
+John,57,Female,Ajman,Electronic,162.26,Silver,2022.02
+Ali,41,Male,Sharjah,Clothing,711.9,Platinum,7044.16
+Ahmed,20,Male,Sharjah,Electronic,647.5,Platinum,5682.77
+Ali,39,Female,Fujairah,Electronic,883.6,Silver,7950.87
+John,19,Female,Sharjah,Grocery,748.32,Gold,5681.47
+Ahmed,41,Male,Sharjah,Electronic,813.31,Platinum,8669.63
+Noor,47,Female,Sharjah,Grocery,317.93,Silver,5967.16
+Omar,55,Male,Abu Dhabi,Clothing,218.57,Silver,6048.44
+Omar,19,Female,Fujairah,Grocery,763.08,Gold,8889.88
+Hassan,38,Male,Dubai,Clothing,816.49,Platinum,4631.35
+Noor,50,Male,Ajman,Grocery,990.98,Platinum,2206.14
+Noor,29,Male,Dubai,Electronic,441.99,Silver,1259.04
+Ali,39,Female,Fujairah,Electronic,403.42,Silver,7796.24
+Omar,42,Female,Ajman,Clothing,787.59,Gold,6582.79
+John,44,Male,Fujairah,Clothing,373.76,Gold,7336.72
+Mona,59,Female,Sharjah,Clothing,934.22,Platinum,2916.68
+Mona,45,Male,Ajman,Grocery,865.49,Platinum,2227.34
+Ahmed,33,Male,Sharjah,Grocery,457.54,Silver,1130.9
+Omar,32,Female,Dubai,Clothing,763.33,Platinum,4155.29
+Omar,20,Female,Dubai,Electronic,766.82,Gold,6309.26
+Mona,54,Male,Ajman,Grocery,147.97,Gold,4530.2
+Omar,24,Female,Ajman,Grocery,907.43,Silver,4937.27
+Ali,38,Female,Fujairah,Grocery,529.99,Gold,9137.43
+Lina,26,Male,Fujairah,Clothing,835.13,Gold,4134.3
+Sara,56,Male,Sharjah,Clothing,354.05,Gold,5625.91
+Noor,35,Female,Ajman,Clothing,900.75,Gold,8052.88
+Hassan,21,Male,Dubai,Clothing,419.74,Silver,4568.89
+Ahmed,42,Male,Fujairah,Clothing,60.3,Silver,6598.78
+Lina,31,Female,Fujairah,Electronic,910.11,Platinum,8761.27
+Mona,26,Male,Dubai,Electronic,136.72,Gold,9545.69
+Noor,43,Male,Fujairah,Clothing,353.35,Platinum,2323.66
+Omar,19,Female,Sharjah,Grocery,952.56,Silver,9339.29
+Hassan,37,Female,Ajman,Clothing,953.08,Silver,5429.05
+Omar,45,Male,Dubai,Electronic,594.77,Silver,3324.2
+John,24,Male,Ajman,Electronic,650.25,Silver,5132.22
+John,25,Female,Fujairah,Grocery,476.02,Silver,9820.29
+Hassan,52,Female,Fujairah,Electronic,328.55,Silver,5433.56
+Hassan,31,Female,Dubai,Clothing,362.23,Silver,3958.76
+Mona,34,Female,Sharjah,Grocery,688.89,Gold,6700.61
+Hassan,53,Male,Abu Dhabi,Clothing,764.76,Platinum,3161.31
+Ali,57,Female,Dubai,Clothing,802.0,Silver,1682.77
+Omar,21,Female,Abu Dhabi,Grocery,800.14,Gold,2159.92
+Lina,19,Male,Abu Dhabi,Clothing,136.65,Gold,2152.41
+Fatima,23,Female,Sharjah,Electronic,519.7,Platinum,2367.12
+Hassan,59,Male,Abu Dhabi,Clothing,104.68,Silver,2249.44
+Ahmed,21,Female,Abu Dhabi,Grocery,572.05,Platinum,6767.87
+John,46,Female,Sharjah,Grocery,469.45,Silver,2636.92
+Ali,35,Female,Abu Dhabi,Grocery,893.32,Gold,4111.01
+Noor,43,Male,Abu Dhabi,Clothing,383.37,Gold,9071.1
+Fatima,51,Male,Abu Dhabi,Grocery,161.21,Gold,5265.65
+Lina,27,Female,Dubai,Grocery,185.84,Gold,7008.02
+Fatima,53,Male,Dubai,Clothing,773.44,Platinum,2550.88
+Hassan,31,Male,Dubai,Electronic,637.31,Silver,2730.6
+Mona,48,Male,Sharjah,Clothing,146.07,Silver,1367.82
+John,32,Male,Fujairah,Grocery,129.9,Platinum,2520.42
+John,25,Male,Abu Dhabi,Grocery,715.92,Silver,3507.31
+Noor,31,Male,Abu Dhabi,Clothing,119.12,Gold,2593.09
+Mona,40,Female,Sharjah,Electronic,830.77,Silver,1798.32
+Omar,57,Female,Abu Dhabi,Grocery,720.93,Gold,2085.72
+Sara,38,Male,Dubai,Grocery,127.28,Platinum,5147.01
+Ali,33,Female,Fujairah,Grocery,130.6,Silver,2857.0
+John,35,Female,Ajman,Clothing,987.31,Platinum,4278.43
+Ahmed,41,Female,Abu Dhabi,Grocery,405.56,Silver,5530.76
+John,43,Female,Dubai,Electronic,402.11,Gold,7213.55
+Fatima,42,Male,Ajman,Grocery,822.16,Platinum,1353.81
+John,58,Female,Fujairah,Grocery,949.89,Silver,8194.69
+John,46,Female,Ajman,Electronic,986.7,Gold,6651.1
+Sara,32,Male,Dubai,Grocery,765.71,Platinum,1735.83
+Sara,18,Male,Ajman,Clothing,407.45,Platinum,8862.21
+Lina,42,Female,Sharjah,Clothing,129.33,Silver,9287.85
+Omar,24,Female,Ajman,Clothing,788.29,Silver,1549.7
+Ahmed,26,Female,Abu Dhabi,Electronic,580.48,Silver,3491.9
+John,41,Female,Abu Dhabi,Grocery,453.01,Gold,8255.81
+John,18,Female,Sharjah,Clothing,911.04,Silver,7734.34
+Ali,25,Female,Dubai,Electronic,155.64,Platinum,2660.69
+Sara,41,Male,Abu Dhabi,Grocery,517.99,Platinum,2884.14
+Ahmed,28,Female,Fujairah,Electronic,60.79,Silver,4334.25
+Noor,34,Female,Abu Dhabi,Clothing,495.23,Silver,5360.71
+Lina,25,Male,Abu Dhabi,Clothing,103.49,Platinum,6564.29
+Omar,52,Male,Dubai,Clothing,162.88,Gold,4320.22
+Mona,52,Male,Ajman,Electronic,161.65,Silver,5162.81
+Omar,50,Male,Abu Dhabi,Electronic,666.75,Silver,7727.24
+Fatima,22,Female,Sharjah,Clothing,758.74,Platinum,1330.15
+John,59,Female,Ajman,Electronic,604.2,Silver,3271.93
+Lina,56,Female,Fujairah,Clothing,964.06,Gold,7420.15
+Fatima,58,Female,Dubai,Clothing,406.13,Platinum,9056.86
+Ahmed,45,Female,Fujairah,Grocery,321.43,Silver,5605.1
+Mona,24,Female,Ajman,Electronic,875.17,Platinum,5789.02
